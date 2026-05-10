@@ -65,6 +65,8 @@ src/
 - Forgot password option
 - Navigation to Sign Up screen
 
+
+
 ![Sign In](./assets/screenshots/sign-in-1.png)
 ![Sign In](./assets/screenshots/sign-in-2.png)
 
@@ -79,6 +81,9 @@ src/
 - Password input
 - Confirm password input
 - Navigation to Sign In screen
+
+
+
 ![Sign Up](./assets/screenshots/sign-up-1.png)
 ![Sign Up](./assets/screenshots/sign-up-2.png)
 
@@ -91,6 +96,8 @@ src/
 - Multiple password reset methods
 - Selectable card layout
 - Reset password button
+
+
 ![Forgot Password](./assets/screenshots/forgot-password-screen-1.png)
 
 ---
