@@ -130,13 +130,13 @@ Displays social login icons.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/GauravJain001/React-Native-Authentication-UI.git
 ```
 
 ## 2. Navigate to Project Folder
 
 ```bash
-cd sign-up-project
+cd React-Native-Authentication-UI
 ```
 
 ## 3. Install Dependencies
