@@ -67,7 +67,7 @@ src/
 
 
 
-![Sign In](./assets/screenshots/sign-in-1.png)
+![Sign In](./assets/screenshots/sign-In-1.png)
 ![Sign In](./assets/screenshots/sign-in-2.png)
 
 
